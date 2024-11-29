@@ -64,7 +64,7 @@ Receive Device
 
 ## Workflow
 <p align="center">
-<img src="https://github.com/hienlk/smart-key/blob/main/res/workflow.png" height="700" width="400">
+<img src="https://github.com/hienlk/smart-key/blob/main/res/work_flow.png" height="700" width="400">
 </p>
 <br>
 
