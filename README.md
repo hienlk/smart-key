@@ -68,7 +68,7 @@ Receive Device
 </p>
 <br>
 
-## Getting Started
+## Result
 <img src="https://github.com/hienlk/smart-key/blob/main/res/result.gif" width="700">
 <br><br>
 
