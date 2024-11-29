@@ -12,11 +12,14 @@ The project also supports the scalability of encryption keys. By simply adding a
 
 ## Hardware Components Used:
 <p align="center">
-<img src="https://github.com/hienlk/smart-key/blob/main/res/key.png" height="500" width="500">
+<img src="https://github.com/hienlk/smart-key/blob/main/res/key.png" height="500" width="650">
+<br>
 Key Fob
-
-<img src="https://github.com/hienlk/smart-key/blob/main/res/rec.png" height="500" width="500">
+<br>
+<img src="https://github.com/hienlk/smart-key/blob/main/res/rec.png" height="500" width="650">
+<br>
 Receive Device
+<br>
 </p>
 <br>
 
