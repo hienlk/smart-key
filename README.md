@@ -12,10 +12,10 @@ The project also supports the scalability of encryption keys. By simply adding a
 
 ## Hardware Components Used:
 <p align="center">
-<img src="https://github.com/hienlk/smart-key/res/key.png" height="500" width="500">
+<img src="https://github.com/hienlk/smart-key/blob/main/res/key.png" height="500" width="500">
 Key Fob
 
-<img src="https://github.com/hienlk/smart-key/res/rec.png" height="500" width="500">
+<img src="https://github.com/hienlk/smart-key/blob/main/res/rec.png" height="500" width="500">
 Receive Device
 </p>
 <br>
@@ -61,12 +61,12 @@ Receive Device
 
 ## Workflow
 <p align="center">
-<img src="https://github.com/hienlk/smart-key/res/rec.png" height="700" width="400">
+<img src="https://github.com/hienlk/smart-key/blob/main/res/workflow.png" height="700" width="400">
 </p>
 <br>
 
 ## Getting Started
-<img src="https://github.com/hienlk/smart-key/res/result.gif" width="700">
+<img src="https://github.com/hienlk/smart-key/blob/main/res/result.gif" width="700">
 <br><br>
 
 ## Getting Started
